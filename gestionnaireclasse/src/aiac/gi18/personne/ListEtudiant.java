@@ -9,11 +9,7 @@ public boolean add(Etudiant e) {
         }
 
 }
-public interface Comparable
-{
-	public boolean estVrai(Etudiant e);
-	
-}
+
 
 
 
